@@ -63,7 +63,7 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the **MIT License**.
 
 ## Contact
-- **GitHub**: [yourusername](https://github.com/TejaKaranam792)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/teja-karanam-60a14a267/)
+- **GitHub**: [TejaKaranam792](https://github.com/TejaKaranam792)
+- **LinkedIn**: [teja karanam](https://linkedin.com/in/teja-karanam-60a14a267/)
 - **Email**: tejakaranam76252@gmail.com
 
